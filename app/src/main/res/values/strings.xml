@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework4</string>
+    <string name = "log_dreams">Log Dreams</string>
+    <string name = "dream_title">Dream Title</string>
+    <string name = "what_happened">What Happened?</string>
+    <string name = "interpretation">What\'s Your Interpretation?</string>
+    <string name = "how_feel">How Did You Feel?</string>
+    <string name = "save">Save</string>
+    <string name = "missing_field">Missing Field</string>
+    <string name = "delete">Delete</string>
+    <string name = "update">Update</string>
+    <string name = "default_feeling">Feeling</string>
+    <string name = "yes">Yes</string>
+    <string name = "no">No</string>
+</resources>
